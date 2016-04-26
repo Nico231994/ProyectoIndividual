@@ -7,7 +7,7 @@ package nicofilm;
 
 /**
  *
- * @author HP Usuario
+ * 
  */
 public class Actor {
     private int idActor;
